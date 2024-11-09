@@ -17,3 +17,7 @@ Welcome to the SpaceX Launch Explorer! This web application allows you to explor
 - SpaceX API for fetching launch data
 
 
+### Live Demo
+
+View the project live on GitHub Pages:  
+**[SpaceX API Launch Explorer](https://mwheeler2244.github.io/SpaceX-API-Launch-Explorer/)**
